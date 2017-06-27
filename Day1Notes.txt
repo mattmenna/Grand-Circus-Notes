@@ -1,0 +1,2 @@
+Git practice
+psvm is a shortcut for setting up public static void main method
